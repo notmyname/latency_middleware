@@ -1,0 +1,6 @@
+[filter:latency]
+use = egg:latency_middleware#latency
+# Latency values are in miliseconds
+# latency =
+# request_latency =
+# response_latency = 
