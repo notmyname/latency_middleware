@@ -37,7 +37,7 @@ setup(
         ],
     entry_points={
         'paste.filter_factory': [
-            'latency_middleware=latency_middlware.latency:filter_factory',
+            'latency_middleware=latency_middleware.latency:filter_factory',
             ],
         },
     )
